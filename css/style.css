@@ -13,6 +13,11 @@ body {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #333;
+}
+
 header {
   height: 70px;
   display: -webkit-box;
@@ -47,11 +52,6 @@ header nav ul li {
   margin: 0 20px;
   list-style: none;
   font-weight: 600;
-}
-
-header nav ul li a {
-  text-decoration: none;
-  color: black;
 }
 
 .mainvisual {
